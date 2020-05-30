@@ -18,7 +18,7 @@
   }
 
   .container h1{
-    font-size: 30px;
+    font-size: 20px;
     letter-spacing: none;
   }
 
@@ -26,7 +26,7 @@
     display: none;
   }
 
-  .menu-icon{
+  .fa fa-bars menu-icon{
     display: block;
   }
 }
