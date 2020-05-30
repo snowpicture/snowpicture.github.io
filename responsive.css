@@ -19,6 +19,11 @@
     text-align: left;
   }
 
+  .container h1{
+    font-size: 30px;
+    letter-spacing: none;
+  }
+
   .header-right{
     display: none;
   }
