@@ -42,4 +42,9 @@
   footer p{
     font-size: 10px;
   }
+
+  .footer-list li{
+    font-size: 10px;
+    margin: 2px;
+  }
 }
