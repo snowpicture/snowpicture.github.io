@@ -84,7 +84,7 @@ header{
 }
 
 .container h1{
-  font-size: 60px;
+  font-size: 50px;
   background-color: rgba(121, 49, 75, 0.8);
   border: 10px solid rgba(140, 206, 183, 0.8);
   letter-spacing: 5px;
@@ -154,7 +154,7 @@ footer p{
 
 .footer-logo {
   float:left;
-  font-size: 32px;
+  font-size: 30px;
 }
 
 .footer-list{
