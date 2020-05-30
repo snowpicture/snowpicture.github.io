@@ -29,4 +29,8 @@
   .menu-icon{
     display: block;
   }
+
+  .footer-logo {
+    font-size: 15px;
+  }
 }
