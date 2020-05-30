@@ -18,7 +18,8 @@
   }
 
   .top-wrapper{
-    background-position: center;
+    background-repeat: no-repeat;
+    background-position: center 50%;
   }
 
 
