@@ -17,6 +17,11 @@
     width: 100%;
   }
 
+  .top-wrapper{
+    background-size: contain;
+  }
+
+
   .container h1{
     font-size: 20px;
     letter-spacing: none;
